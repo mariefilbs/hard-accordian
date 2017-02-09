@@ -1,27 +1,21 @@
 * {
-  box-sizing: border-box;
-}
+  box-sizing: border-box; }
 
 .container {
   margin: 0 auto;
   width: 80%;
-  //background-color: lightgrey;
-  min-height: 400px;
-}
+  min-height: 400px; }
 
 img {
   width: 60%;
   height: 400px;
-  position: absolute;
-}
+  position: absolute; }
 
 button {
   color: lightgrey;
   background-color: black;
   border: black;
-  position: relative;
-}
+  position: relative; }
 
 .slide img {
-  transition: opacity 2s ease-in-out;
-}
+  transition: opacity 2s ease-in-out; }
